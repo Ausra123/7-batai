@@ -1,0 +1,14 @@
+Sukurti: 
+    [ ] katalogą css
+    [ ] katalogą img
+    [ ] pagrindinį failą index.html
+    [ ] stiliaus failą main.css
+    [ ] sujungti
+    [ ] parsisiųsti ikonėlių šriftus 
+https://fontawesome.com/v4/get-started/
+Iš parsisiųsto katalogo iškeliame failą fontawesome.min.css į savo css katalogą ir katalogą Fonts, kitus failus ir katalogus pašaliname, jie nereikalingi.
+Nuėjus į Icons paspaudus ant grupės ikonų ir ant konkrečios ikonos atsidaro langas, kuriame galite matyti kodo pavyzdį.
+https://fontawesome.com/v4/icons/
+    [ ] CSS faile išdėstome blokus su Flex
+Blokų išdėstymas (Flex):
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
